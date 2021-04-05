@@ -1,0 +1,28 @@
+/*Style for all elements*/
+*{
+	background-color: blanchedAlmond;
+	font-family: Comic Sans MS;
+	color: Navy;
+}
+/*Style for element with id, pageTitle*/
+h1{
+	height: 50px;
+	background-color:lightSeaGreen;
+	border: 2px solid black;
+	text-align: center;
+}
+
+/*Style for element with class, amen*/
+.amen{
+	color: darkSalmon;
+}
+
+/*Style for element with class, veggies*/
+.near{
+	color: lightSeaGreen;
+}
+
+/*style for image*/
+img {
+  border: 5px solid #555;
+}
